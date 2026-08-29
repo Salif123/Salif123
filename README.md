@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=150&section=header&text=Salif%20Ahammed&fontSize=44&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
@@ -16,7 +15,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3&section=header" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3" width="70%"/>
 
 </div>
 
@@ -27,11 +26,11 @@
 ```text
 ███████╗ █████╗ ██╗     ██╗███████╗
 ██╔════╝██╔══██╗██║     ██║██╔════╝
-███████╗███████║██║     ██║█████╗
-╚════██║██╔══██║██║     ██║██╔══╝
-███████║██║  ██║███████╗██║███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝
-````
+███████╗███████║██║     ██║█████╗  
+╚════██║██╔══██║██║     ██║██╔══╝  
+███████║██║  ██║███████╗██║██║     
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     
+```
 
 ### `> Building intelligent systems. Shipping fast. 🚀`
 
@@ -48,29 +47,22 @@ class SalifAhammed:
 
     role = [
         "AI/ML Engineer",
-        "Full Stack Developer"
+        "Full Stack Developer",
     ]
 
     education = "B.Tech IT @ CUSAT · 2026"
-
-    location = "Kochi, Kerala, India"
+    location  = "Kochi, Kerala, India"
 
     focus = [
         "Large Language Models",
         "Natural Language Processing",
         "Scalable APIs",
         "Prompt Engineering",
-        "Generative AI"
+        "Generative AI",
     ]
 
-    stack = [
-        "Python",
-        "C++",
-        "Flutter",
-        "FastAPI"
-    ]
-
-    status = "🟢 Open to opportunities"
+    stack  = ["Python", "C++", "Flutter", "FastAPI"]
+    status = "🟢  Open to opportunities"
 
     def mission(self):
         return "Build intelligent systems, ship fast."
@@ -80,76 +72,61 @@ class SalifAhammed:
 
 ---
 
-# 🧬 Experience
+## 🧬 Experience
 
 <table>
 <tr>
 <td width="90px" align="center">
 
-### 🔵
-
-**IBM**
+🔵<br/>**IBM**
 
 </td>
 <td>
 
-### Generative AI Intern
+**Generative AI Intern** &nbsp;·&nbsp; `Sep 2025 – Oct 2025`
 
-`Sep 2025 – Oct 2025`
+🔷 **WatsonX Solution Grant**
 
-**🔷 WatsonX Solution Grant**
-
-* Built a **Legal Judgement Summarization** pipeline using LLMs
-* Worked with NLP-based summarization systems
-* Designed prompt engineering workflows
-* Integrated **IBM WatsonX** technologies
+- Built a **Legal Judgement Summarization** pipeline using Large Language Models
+- Developed NLP-based summarization systems with IBM WatsonX tools
+- Designed and optimized prompt engineering workflows
+- Gained hands-on experience in AI model integration and Generative AI
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
-### 🟣
-
-**Hashint**
+🟣<br/>**Hashint**
 
 </td>
 <td>
 
-### Software Engineer Intern
+**Software Engineer Intern** &nbsp;·&nbsp; `Apr 2025 – May 2025`
 
-`Apr 2025 – May 2025`
+🟣 **Project Pixnac — Digital Signage Platform**
 
-**🟣 Project Pixnac — Digital Signage Platform**
-
-* Developed mobile web functionality for large-screen advertisement management
-* Built responsive Flutter interfaces
-* Integrated frontend applications with backend APIs
+- Developed a mobile web module for managing advertisement slideshows on large digital screens
+- Built responsive UI components using Flutter
+- Integrated frontend modules with backend APIs for seamless real-time data retrieval
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
-### 🟢
-
-**Myblocks**
+🟢<br/>**Myblocks**
 
 </td>
 <td>
 
-### AI & ML Intern
+**AI & ML Intern** &nbsp;·&nbsp; `May 2024 – Jun 2024`
 
-`May 2024 – Jun 2024`
+🟢 **Dual Role — AI + Machine Learning**
 
-**🟢 Dual Role: AI + ML**
-
-* Worked on LLM training and fine-tuning
-* Built ML deployment pipelines
-* Developed image identification systems
-* Worked on image classification workflows
+- Worked on LLM training, fine-tuning, and deployment pipelines
+- Built and evaluated image identification and classification systems
+- Gained end-to-end exposure to the ML model lifecycle
 
 </td>
 </tr>
@@ -157,91 +134,83 @@ class SalifAhammed:
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Cloud
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 📱 Frontend & Mobile
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 AI / Machine Learning
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=Keras\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-
-</div>
-
----
-
-## ⚙️ Backend & Cloud
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-
-</div>
-
----
-
-## 📱 Frontend & Mobile
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=Flutter\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-</div>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Salif123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f17&title_color=00d9a6&text_color=c9d1d9&icon_color=3d8ef8&count_private=false" height="180"/>
-
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salif123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f17&title_color=a56eff&text_color=c9d1d9" height="180"/>
 
 <br/><br/>
@@ -256,93 +225,57 @@ class SalifAhammed:
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake.svg"
-/>
-
-<img
- src="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake.svg"
- alt="GitHub Contribution Snake"
- width="100%"
-/> </picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+</picture>
 
 <br/><br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,20:3d8ef8,40:a56eff,60:ff4ecd,80:3d8ef8,100:00d9a6&height=4&section=header"
-width="85%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,20:3d8ef8,40:a56eff,60:ff4ecd,80:3d8ef8,100:00d9a6&height=4" width="85%"/>
 
 </div>
 
 ---
 
-# 🏆 Top Contributions
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salif123\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=6\&margin-w=8)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salif123&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)
 
 </div>
 
 ---
 
-# 🎓 Education & Certifications
+## 🎓 Education & Certifications
 
-<table align="center">
+<div align="center">
 
-<tr>
-<th>🎓 Degree</th>
-<th>🏫 Institution</th>
-<th>📅 Period</th>
-</tr>
-
-<tr>
-<td><b>B.Tech — Information Technology</b></td>
-<td>CUSAT · School of Engineering</td>
-<td>Oct 2022 – Apr 2026</td>
-</tr>
-
-<tr>
-<td>Senior Secondary</td>
-<td>Chinmaya Vidyalaya</td>
-<td>—</td>
-</tr>
-
-<tr>
-<td>Secondary Education</td>
-<td>Apsara Public School</td>
-<td>—</td>
-</tr>
-
-</table>
+| 🎓 Degree | 🏫 Institution | 📅 Period |
+|:---|:---|:---:|
+| **B.Tech — Information Technology** | CUSAT · School of Engineering | Oct 2022 – Apr 2026 |
+| Senior Secondary | Chinmaya Vidyalaya | — |
+| Secondary Education | Apsara Public School | — |
 
 <br/>
 
-<div align="center">
-
-| 🏅 Certification                       | 🏢 Issuer           |
-| :------------------------------------- | :------------------ |
-| 🟠 AWS Certifications                  | Amazon Web Services |
-| 🟢 Machine Learning with Python        | IBM / Coursera      |
-| 🔵 Software Engineering Job Simulation | JPMorganChase       |
+| 🏅 Certification | 🏢 Issuer |
+|:---|:---|
+| 🟠 AWS Certifications | Amazon Web Services |
+| 🟢 Machine Learning with Python | IBM / Coursera |
+| 🔵 Software Engineering Job Simulation | JPMorganChase |
 
 </div>
 
 ---
 
-# 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
@@ -352,23 +285,23 @@ width="85%"
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-### `Have an idea? Let's build it. 🚀`
+### `Have an idea? Let's build it together. 🚀`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salifahammed-51a819265)
-
-[![GitHub](https://img.shields.io/badge/Explore_My_Code-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Salif123)
-
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:salifahammed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salifahammed-51a819265)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salif123)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salifahammed@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3&section=header" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3" width="50%"/>
 
 <br/>
 
@@ -377,4 +310,3 @@ width="85%"
 ### `Kochi, Kerala · CUSAT B.Tech IT · Class of 2026`
 
 </div>
-```
