@@ -1,11 +1,11 @@
 ````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9a6,50:3d8ef8,100:a56eff&height=140&section=header&text=Salif%20Ahammed&fontSize=44&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=150&section=header&text=Salif%20Ahammed&fontSize=44&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=700&color=00D9A6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+LLM+Specialist;Full+Stack+Developer+%7C+Flutter+Dev;Backend+Architect+%7C+API+Designer;Building+Intelligent+Systems+%26+Scalable+APIs;B.Tech+IT+%40+CUSAT+%7C+Class+of+2026" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=700&color=00D9A6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+LLM+Specialist;Full+Stack+Developer+%7C+Flutter+Dev;Backend+Architect+%7C+API+Designer;Generative+AI+%7C+NLP+%7C+Machine+Learning;Building+Intelligent+Systems+%26+Scalable+APIs;B.Tech+IT+%40+CUSAT+%7C+Class+of+2026" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,50:3d8ef8,100:a56eff&height=3&section=header" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3&section=header" width="70%"/>
 
 </div>
 
@@ -80,7 +80,7 @@ class SalifAhammed:
 
 ---
 
-## 🧬 Experience
+# 🧬 Experience
 
 <table>
 <tr>
@@ -256,7 +256,7 @@ class SalifAhammed:
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -272,14 +272,17 @@ class SalifAhammed:
 />
 
 <img
- alt="GitHub Contribution Snake"
  src="https://raw.githubusercontent.com/Salif123/Salif123/output/github-snake.svg"
+ alt="GitHub Contribution Snake"
  width="100%"
 /> </picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,50:3d8ef8,100:a56eff&height=3&section=header" width="80%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,20:3d8ef8,40:a56eff,60:ff4ecd,80:3d8ef8,100:00d9a6&height=4&section=header"
+width="85%"
+/>
 
 </div>
 
@@ -365,7 +368,7 @@ class SalifAhammed:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,50:3d8ef8,100:a56eff&height=3&section=header" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9a6,25:3d8ef8,50:a56eff,75:ff4ecd,100:00d9a6&height=3&section=header" width="50%"/>
 
 <br/>
 
