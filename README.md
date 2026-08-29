@@ -243,15 +243,7 @@ class SalifAhammed:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salif123&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
